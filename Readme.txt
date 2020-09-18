@@ -1,1 +1,1 @@
-# bordered_diamond_patter
+# bordered_diamond_pattern
